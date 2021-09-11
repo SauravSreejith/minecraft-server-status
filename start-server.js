@@ -7,11 +7,11 @@ var serveStatic = require('serve-static');
 var app = connect();
 
 app.use(serveStatic(__dirname, {'index': ['index.html']}));
-app.listen(3000);
+app.listen(8080);
 
 
 function idle() {
-    console.log(`CONNECTION ACTIVE!`)
-}
+    console.log(`CONNECTION ACTIVE!`) // if the console is getting spammy just replace it with console.log(``)
+} 
 
-setInterval(idle, 30000);
+setInterval(idle, 30000); //repeat the process every 30 seconds, this works as a background process to keep the app alive
