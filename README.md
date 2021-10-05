@@ -9,7 +9,7 @@ Just place the `index.html`, `script.js` and `style.css` in your project folder.
 > Make sure the files are always in same folder
 
 
-### Example: https://mcstatus.web.app/
+### You can check out this website I made https://mcstatus.web.app/ the template looks like this when hosted
 
 # Made with ❤ using HTML, CSS, JAVASCRIPT
 
