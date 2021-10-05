@@ -9,5 +9,7 @@ Just place the `index.html`, `script.js` and `style.css` in your project folder.
 > Make sure the files are always in same folder
 
 
-## Example: https://mcstatus.web.app/
+### Example: https://mcstatus.web.app/
+
+# Made with ❤ using HTML, CSS, JAVSCRIPT
 
