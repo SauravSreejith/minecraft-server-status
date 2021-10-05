@@ -11,5 +11,5 @@ Just place the `index.html`, `script.js` and `style.css` in your project folder.
 
 ### Example: https://mcstatus.web.app/
 
-# Made with ❤ using HTML, CSS, JAVSCRIPT
+# Made with ❤ using HTML, CSS, JAVASCRIPT
 
