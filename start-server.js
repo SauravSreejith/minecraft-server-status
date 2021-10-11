@@ -1,7 +1,6 @@
 var connect = require('connect');
 var serveStatic = require('serve-static');
-//npm i connect 
-//npm i serve-static
+//Install dependencies: npm i connect && npm i serve-static
 
 //Used to host the page at localhost:8080
 var app = connect();
