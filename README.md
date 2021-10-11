@@ -12,5 +12,5 @@ Just place the `index.html`, `script.js` and `style.css` in your project folder.
 ## You can check out this website I made https://mcstatus.web.app/
 ### The template looks like this when hosted
 
-# Made with ❤ using HTML, CSS, JAVASCRIPT
+# Made with ❤ using HTML, CSS and JAVASCRIPT
 
